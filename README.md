@@ -73,8 +73,8 @@
    <a href="https://www.geeksforgeeks.org/linux-commands/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"width="50"height="50"/>
            </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjadhav289&show_icons=true&locale=en&layout=compact" alt="manishjadhav289" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjadhav289&show_icons=true&locale=en&layout=compact" alt="manishjadhav9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjadhav289&show_icons=true&locale=en" alt="manishjadhav289" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjadhav289&show_icons=true&locale=en" alt="manishjadhav9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjadhav289&theme=dark" alt="manishjadhav289" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjadhav289&theme=dark" alt="manishjadhav9" /></p>
