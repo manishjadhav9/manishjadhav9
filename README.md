@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manish Jadhav</h1>
+<h1 align="center">Hi 👋, I'm Manish Jadhav</h1> 
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<img src="
 <h3 align="center">A passionate and aspiring Computer Engineering student on a journey to explore the fascinating world of technology. Welcome to my GitHub repository, where I document my projects, share my coding adventures, and showcase my skills.</h3>
 
 
