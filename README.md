@@ -56,8 +56,8 @@
 | Extra        | ![My Skills](https://skillicons.dev/icons?i=latex,md,&perline=4)                                                                                                                                                                                                                      |
 | Other | ![My Skills](https://skillicons.dev/icons?i=linux,git,github) &nbsp;                                                                                                             |
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjadhav9&show_icons=true&locale=en&layout=compact&theme=dark" alt="manishjadhav9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjadhav9&show_icons=true&locale=en&layout=compact&theme=dark" alt="manishjadhav9" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjadhav9&show_icons=true&locale=en&theme=dark" alt="manishjadhav9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjadhav9&show_icons=true&locale=en&theme=dark" alt="manishjadhav9" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjadhav9&theme=dark" alt="manishjadhav9" /></p>
