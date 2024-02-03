@@ -1,21 +1,11 @@
-<h1 align="center">Hi 👋, I'm Manish Jadhav</h1> 
+<h1 align="center"><em>Welcome to my GitHub repository, where I document my projects, share my coding adventures, and showcase my skills.</em></h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-<img src="
-<h3 align="center">A passionate and aspiring Computer Engineering student on a journey to explore the fascinating world of technology. Welcome to my GitHub repository, where I document my projects, share my coding adventures, and showcase my skills.</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="1000">
+  
+<h2 align="center"><em>A passionate and aspiring Computer Engineering student on a journey to explore the fascinating world of technology.</em></h2>
 
+<h3 align="center"><em> UI/UX Designing - Software Development - Web Development - Machine Learning</em></h3>
 
-- **Education:** I am currently pursuing my B-Tech (Bachelor's in Technology) degree in Computer Engineering at Sardar Patel Institute of Technology.
-
-- **Projects:** In my profile, you'll find a collection of my projects, ranging from simple coding exercises to more complex, real-world applications. I'm constantly learning and improving my skills, so feel free to explore my work and provide feedback.
-
-- **Learning:** Learning is a lifelong journey, and I'm always eager to expand my knowledge. Currently, I'm diving deeper into ReactJS and TailwindCSS. Stay tuned for updates on my progress!
-
-- **Passions:** I'm enthusiastic about everything related to computer engineering. From designing efficient algorithms to tinkering with hardware components, I love to dive deep into the world of technology. Some of my interests include: 🖥️ UI/UX Designing - 💻 Software Development - 🌐 Web Development - 📊 Data Science
-
-- Happy coding! 🖥️💡 [https://manishjadhav289.github.io/my-portfolio/](https://manishjadhav289.github.io/my-portfolio/)
-
-- 📫 To reach me out: **manishsj289@gmail.com**
 
 <div align="center">
   
