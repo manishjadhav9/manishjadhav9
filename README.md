@@ -43,31 +43,16 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   <a href="https://www.geeksforgeeks.org/android-tutorial/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="50"height="50"/></a>
-   <a href="https://getbootstrap.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50"height="50"/> 
-   <a href="https://www.geeksforgeeks.org/c-programming-language/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"height="50"/>
-   <a href="https://www.canva.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"height="50"/>
-   <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="50"height="50"/>
-   <a href="https://www.geeksforgeeks.org/css/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50"height="50"/>
-   <a href="https://www.figma.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"height="50"/> 
-   <a href="https://www.geeksforgeeks.org/git-tutorial/?ref=lbp" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50"height="50"/>
-   <a href="https://www.geeksforgeeks.org/html/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50"height="50"/>
-   <a href="https://www.geeksforgeeks.org/java/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="50"height="50"/>
-   <a href="https://www.geeksforgeeks.org/javascript/?ref=lbp" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50"height="50"/>
-   <a href="https://www.geeksforgeeks.org/mysql-introdution/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"height="50"/> 
-   <a href="https://www.geeksforgeeks.org/perl-programming-language/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="50"height="50"/>
-   <a href="https://www.oracle.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"height="50"/>
-   <a href="https://www.adobe.com/products/photoshop.html" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"height="50"/>
-   <a href="https://www.geeksforgeeks.org/python-programming-language/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"height="50"/>
-   <a href="https://www.adobe.com/products/premiere.html" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50"height="50"/>
-   <a href="https://www.geeksforgeeks.org/reactjs-tutorials/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"height="50"/>
-   <a href="https://tailwindcss.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"height="50"/>
-   <a href="https://www.geeksforgeeks.org/linux-commands/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"width="50"height="50"/>
-           </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjadhav289&show_icons=true&locale=en&layout=compact" alt="manishjadhav9" /></p>
+|                  |                                                                                                                                                                                                                                                                                 |
+| ---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Languages        | ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,perl&perline=4)                                                                                                                                                                                                                      |
+| AI/ML           |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="44px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=44/> |
+| Front End Development         | ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind&perline=4)                                                                                                                                                                                                                        |
+| Back End Development        | ![My Skills](https://skillicons.dev/icons?i=nodejs,express)<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>                                                                                                                                                                                      |
+| Databases        | ![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=4)  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>                                                                                                                                                                                                                     |
+| DevOps        | ![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,pwsh&perline=4)                                                                                                                                                                                                                      |
+| Software        | ![My Skills](https://skillicons.dev/icons?i=figma,postman,matlab,photoshop&perline=4)                                                                                                                                                                                                                      |
+| Extra        | ![My Skills](https://skillicons.dev/icons?i=latex,md,&perline=4)                                                                                                                                                                                                                      |
+| Other | ![My Skills](https://skillicons.dev/icons?i=linux,git,github) &nbsp;                                                                                                             |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjadhav289&show_icons=true&locale=en" alt="manishjadhav9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjadhav289&theme=dark" alt="manishjadhav9" /></p>
