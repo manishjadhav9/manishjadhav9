@@ -58,7 +58,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjadhav9&show_icons=true&locale=en&layout=compact&theme=dark" alt="manishjadhav9" /></p>
 
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishjadhav9&theme=dracula"/>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjadhav9&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" height='200'/>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjadhav9&theme=dark" alt="manishjadhav9" /></p>
