@@ -3,7 +3,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="1000">
   
 <h2 align="center"><em>A passionate and aspiring Computer Engineering student on a journey to explore the fascinating world of technology.</em></h2>
- <a href="manishjadhav.vercel.app/">Explore my Portfolio</a>
 
 <h3 align="center"><em> UI/UX Designing - Software Development - Web Development - Machine Learning</em></h3>
 
@@ -35,6 +34,7 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
+<a href="manishjadhav.vercel.app/" target="blank"><h3><em>Manish Jadhav Portfolio</em></h3></a>
 <p align="left">
 <a href="https://twitter.com/manishjadhav28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="manishjadhav28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manishjadhav2809" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="manishjadhav2809" height="30" width="40" /></a>
