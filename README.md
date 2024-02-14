@@ -34,8 +34,7 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<h3 <a href="https://manishjadhav.vercel.app/"></a>><em>MY PORTFOLIO</em></h3>
-<p align="left">
+<a href="https://manishjadhav.vercel.app/">MY PORTFOLIO</a>
 <a href="https://twitter.com/manishjadhav28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="manishjadhav28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manishjadhav2809" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="manishjadhav2809" height="30" width="40" /></a>
 <a href="https://instagram.com/maanishhh.28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maanishhh.28" height="30" width="40" /></a>
