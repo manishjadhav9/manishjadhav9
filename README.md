@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="1000">
   
 <h2 align="center"><em>A passionate and aspiring Computer Engineering student on a journey to explore the fascinating world of technology.</em></h2>
-<a href="manishjadhav.vercel.app/"><h3>Explore my Portfolio</h3></a>
+ <a href="manishjadhav.vercel.app/">Explore my Portfolio</a>
 
 <h3 align="center"><em> UI/UX Designing - Software Development - Web Development - Machine Learning</em></h3>
 
