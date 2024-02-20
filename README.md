@@ -5,7 +5,7 @@
 <h2 align="center"><em>A passionate and aspiring Computer Engineering student on a journey to explore the fascinating world of technology.</em></h2>
 
 <h3 align="center"><em> UI/UX Designing - Software Development - Web Development - Machine Learning</em></h3>
-
+https://ui.shadcn.com/examples/cards
 
 <div align="center">
   
