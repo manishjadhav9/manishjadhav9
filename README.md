@@ -1,6 +1,7 @@
 <h1 align="center"><em>Welcome to my GitHub repository, where I document my projects, share my coding adventures, and showcase my skills.</em></h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="1000">
+
   
 <h2 align="center"><em>A passionate and aspiring Computer Engineering student on a journey to explore the fascinating world of technology.</em></h2>
 
@@ -58,6 +59,8 @@ https://ui.shadcn.com/examples/cards
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjadhav9&show_icons=true&locale=en&layout=compact&theme=dark" alt="manishjadhav9" /></p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjadhav9&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" height='200'/>
+<a href="https://awesome-github-stats.azurewebsites.net" target="_blank">    
+    <img width="400px" alt="Manish Jadhav's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/carloscds?theme=github-dark&cardType=github" />
+  </a>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjadhav9&theme=dark" alt="manishjadhav9" /></p>
