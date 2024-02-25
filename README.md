@@ -57,10 +57,9 @@ https://ui.shadcn.com/examples/cards
 | Extra        | ![My Skills](https://skillicons.dev/icons?i=latex,md,&perline=4)                                                                                                                                                                                                                      |
 | Other | ![My Skills](https://skillicons.dev/icons?i=linux,git,github) &nbsp;                                                                                                             |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjadhav9&show_icons=true&locale=en&layout=compact&theme=dark" alt="manishjadhav9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjadhav9&show_icons=true&locale=en&layout=donut&theme=dark" alt="manishjadhav9" /></p>
 
-<a href="https://awesome-github-stats.azurewebsites.net" target="_blank">    
-    <img width="400px" alt="Manish Jadhav's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/carloscds?theme=github-dark&cardType=github" />
-  </a>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/manishjadhav9?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjadhav9&theme=dark" alt="manishjadhav9" /></p>
