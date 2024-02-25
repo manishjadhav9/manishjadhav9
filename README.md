@@ -59,7 +59,7 @@ https://ui.shadcn.com/examples/cards
 
 [![manishjadhav9's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manishjadhav9&exclude_repo=&hide=&langs_count=7&layout=compact&theme=github-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/manishjadhav9?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![manishjadhav9's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishjadhav9&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjadhav9&theme=dark" alt="manishjadhav9" /></p>
