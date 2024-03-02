@@ -8,32 +8,7 @@
 <h3 align="center"><em> UI/UX Designing - Software Development - Web Development - Machine Learning</em></h3>
 
 
-<div align="center">
 
-
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-  
-</div>
 
 <h3 align="left">Connect with me:</h3>
  <a href="https://manishjadhav.vercel.app/" target="blank"><img align="center" src="https://github.com/manishjadhav9/manishjadhav9/assets/96580022/7742def4-a125-4c68-a36f-52f724d26203" alt="manishjadhavportfolio" height="30" width="40" /></a>
