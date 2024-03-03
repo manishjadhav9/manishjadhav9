@@ -35,6 +35,8 @@
 
 [![manishjadhav9's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manishjadhav9&exclude_repo=&hide=&langs_count=7&layout=compact&theme=github-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![manishjadhav9's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishjadhav9&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![manishjadhav9's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishjadhav9&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
