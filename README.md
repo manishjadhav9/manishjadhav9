@@ -33,12 +33,12 @@
 | Extra        | ![My Skills](https://skillicons.dev/icons?i=latex,md,selenium&perline=4)                                                                                                                                                                                                                      |
 | Other | ![My Skills](https://skillicons.dev/icons?i=linux,git,github) &nbsp;                                                                                                             |
 
-<p align="left">
- <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjadhav9&text_color=FFFFFF&bg_color=000000&title_color=orange&langs_count=6&layout=compact&hide_border=true" />
+<p align="center">
+ <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjadhav9&text_color=FFFFFF&bg_color=000000&title_color=orange&langs_count=6&layout=compact&hide_border=true" />
   </p>
 
-<p align="right">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=manishjadhav9&show_icons=true&hide_border=true&title_color=orange&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjadhav9&show_icons=true&hide_border=true&title_color=orange&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 </p>
 
 
