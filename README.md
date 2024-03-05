@@ -35,7 +35,11 @@
 
 [![manishjadhav9's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=manishjadhav9&exclude_repo=&hide=&langs_count=7&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![manishjadhav9's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishjadhav9&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjadhav9&show_icons=true&hide_border=true&title_color=orange&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+</p>
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjadhav9&theme=dark" alt="manishjadhav9" /></p>
+
+
