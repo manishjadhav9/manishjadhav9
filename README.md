@@ -33,17 +33,14 @@
 | Extra        | ![My Skills](https://skillicons.dev/icons?i=latex,md,selenium&perline=4)                                                                                                                                                                                                                      |
 | Other | ![My Skills](https://skillicons.dev/icons?i=linux,git,github) &nbsp;                                                                                                             |
 
-<p align="center">
- <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjadhav9&text_color=FFFFFF&bg_color=000000&title_color=orange&langs_count=6&layout=compact&hide_border=true" />
-  </p>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=manishjadhav9&show_icons=true&hide_border=true&title_color=orange&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishjadhav9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishjadhav9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishjadhav9&theme=dark" alt="manishjadhav9" />
-</p>
+<img src="https://raw.githubusercontent.com/manishjadhav9/manishjadhav9/output/snake.svg" alt="Snake animation" />
 
-
+###
