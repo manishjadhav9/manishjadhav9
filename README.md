@@ -13,9 +13,9 @@
 <h3 align="left">Connect with me:</h3>
  <a href="https://manishjadhav.vercel.app/" target="blank"><img align="center" src="https://github.com/manishjadhav9/manishjadhav9/assets/96580022/7742def4-a125-4c68-a36f-52f724d26203" alt="manishjadhavportfolio" height="30" width="40" /></a>
 <a href="https://twitter.com/manishjadhav28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="manishjadhav28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manishjadhav2809" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="manishjadhav2809" height="30" width="40" /></a>
-<a href="https://instagram.com/maanishhh.28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maanishhh.28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manishj28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manishj28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manishjadhav9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="manishjadhav2809" height="30" width="40" /></a>
+<a href="https://instagram.com/maanishjadhav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maanishhh.28" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/manishjadhav9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manishj28" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/manishsj289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manishsj289" height="30" width="40" /></a>
 </p>
 
