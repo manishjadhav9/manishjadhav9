@@ -34,6 +34,8 @@
 
 
 <div align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/leocor9?theme=wtf&font=Fira+Code&ext=heatmap" height="180"/>
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=manishjadhav9&show_icons=true&private_count=true&theme=dracula"  />
   <img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   <picture>
