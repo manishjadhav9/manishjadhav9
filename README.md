@@ -8,8 +8,7 @@
 
 </p>
 <p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/leocor9?theme=dark&font=Nunito&ext=heatmap" />  
+  <img align="center" src="https://leetcard.jacoblin.cool/leocor9?theme=dark&font=Fira+Code&ext=heatmap" height="250"/>
 </p>
 
 <br/>
